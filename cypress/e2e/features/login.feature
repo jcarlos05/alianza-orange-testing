@@ -4,3 +4,7 @@ Feature: HRM Orange Application
     Scenario: Login
         Given I open orange hrm page "qa"
         When Enter credential succesfully
+
+    Scenario: Register
+        Given I open orange hrm page "qa"
+        When Enter credential succesfully
